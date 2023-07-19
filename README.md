@@ -12,6 +12,7 @@ using Azure.ResourceManager.Resources;
 ```
 Navigating to browser to login once login successful asks for resource group to read the app services/websites configuration settings.
 ```
+<img width="284" alt="image" src="https://github.com/shivahari2000/PortalFunctionApp/assets/19324643/04390ac1-5efe-4dbb-95a8-f1926cd15c37">
 
 
 ## Connection to Repo
